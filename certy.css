@@ -1,0 +1,12 @@
+.card {
+    width: 250px;
+    height: 300px;
+    border: none;
+    box-shadow: 15px 20px 20px rgba(0, 0, 0,.3),
+               inset 4px 4px 10px white;
+    border-radius: 20px;
+    overflow:hidden;
+    justify-content: center;
+    align-items: center;
+    margin: 2opx 60px;
+ }
