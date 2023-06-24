@@ -27,3 +27,9 @@ website live URL: "https://thethoufik46.github.io/thethoufik46/ "
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width="960" alt="10" src="https://github.com/thethoufik46/Nestopia/assets/72694934/74013e42-4fc2-46f4-aa43-5712ba834f0c">
+<img width="960" alt="11" src="https://github.com/thethoufik46/Nestopia/assets/72694934/33ba8db2-a8a4-4688-8d2a-b16899428ceb">
+<img width="960" alt="12" src="https://github.com/thethoufik46/Nestopia/assets/72694934/5669a87d-c2a0-4b93-8ff5-f4f2aa542300">
+<img width="960" alt="13" src="https://github.com/thethoufik46/Nestopia/assets/72694934/5bb6cfc8-ee90-4135-9406-5708bbacf910">
+
